@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Statsd</string>
+    <string name="action_settings">Settings</string>
+    <string name="statsd_host">192.168.0.108</string>
+</resources>
